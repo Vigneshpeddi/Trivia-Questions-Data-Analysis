@@ -1,0 +1,622 @@
+[
+  {
+    "Question": "TRUE OR FALSE - The color orange is named after the fruit.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "Who is depicted on the US hundred-dollar bill?",
+    "Answer": "Benjamin Franklin"
+  },
+  {
+    "Question": "TRUE OR FALSE - The Lego Group was founded in 1932.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "What is the name of Poland in Polish?",
+    "Answer": "Polska"
+  },
+  {
+    "Question": "Which restaurant's mascot is a clown?",
+    "Answer": "McDonald's"
+  },
+  {
+    "Question": "What colour is the \"Ex\" in FedEx Ground?",
+    "Answer": "Green"
+  },
+  {
+    "Question": "TRUE OR FALSE - Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+    "Answer": "Thomas Jefferson"
+  },
+  {
+    "Question": "What is Cynophobia the fear of?",
+    "Answer": "Dogs"
+  },
+  {
+    "Question": "TRUE OR FALSE - Vietnam's national flag is a red star in front of a yellow background.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "The Flag of the European Union has how many stars on it?",
+    "Answer": "12"
+  },
+  {
+    "Question": "TRUE OR FALSE - A pasodoble is a type of Italian pasta sauce.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "When one is \"envious\", they are said to be what color?",
+    "Answer": "Green"
+  },
+  {
+    "Question": "Who is the author of Jurrasic Park?",
+    "Answer": "Michael Crichton"
+  },
+  {
+    "Question": "What item is thewerewolfmost afraid of?",
+    "Answer": "Silver"
+  },
+  {
+    "Question": "What is the world's most expensive spice by weight?",
+    "Answer": "Saffron"
+  },
+  {
+    "Question": "TRUE OR FALSE - The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "What does the \"G\" mean in \"G-Man\"?",
+    "Answer": "Government"
+  },
+  {
+    "Question": "TRUE OR FALSE - The sum of all the numbers on a roulette wheel is 666.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "TRUE OR FALSE - There are 86400 seconds in a day.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "What is a \"dakimakura\"?",
+    "Answer": "A body pillow"
+  },
+  {
+    "Question": "TRUE OR FALSE - An eggplant is a vegetable.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "What is the unit of currency in Laos?",
+    "Answer": "Kip"
+  },
+  {
+    "Question": "What alcoholic drink is mainly made from juniper berries?",
+    "Answer": "Gin"
+  },
+  {
+    "Question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "Answer": "Fiat"
+  },
+  {
+    "Question": "What is the last letter of the Greek alphabet?",
+    "Answer": "Omega"
+  },
+  {
+    "Question": "In what year was McDonald's founded?",
+    "Answer": "1955"
+  },
+  {
+    "Question": "What was Mountain Dew's original slogan?",
+    "Answer": "Yahoo! Mountain Dew... It'll tickle your innards!"
+  },
+  {
+    "Question": "What was the soft drink Pepsi originally introduced as?",
+    "Answer": "Brad's Drink"
+  },
+  {
+    "Question": "What is the Portuguese word for \"Brazil\"?",
+    "Answer": "Brasil"
+  },
+  {
+    "Question": "When did the website \"Facebook\" launch?",
+    "Answer": "2004"
+  },
+  {
+    "Question": "TRUE OR FALSE - \"Santa Claus\" is a variety of melon.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "What was the original name of the search engine \"Google\"?",
+    "Answer": "BackRub"
+  },
+  {
+    "Question": "Where did the pineapple plant originate?",
+    "Answer": "South America"
+  },
+  {
+    "Question": "Which country has the most Trappist breweries?",
+    "Answer": "Belgium"
+  },
+  {
+    "Question": "What is the currency of Poland?",
+    "Answer": "Z\u0142oty"
+  },
+  {
+    "Question": "TRUE OR FALSE - The British organization CAMRA stands for The Campaign for Real Ale.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "TRUE OR FALSE - \"Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.\" is a grammatically correct sentence.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+    "Answer": "Ed Sheeran - I See Fire"
+  },
+  {
+    "Question": "What type of dog is 'Handsome Dan', the mascot of Yale University?",
+    "Answer": "Bulldog"
+  },
+  {
+    "Question": "What is the airspeed velocity of an unladen swallow?",
+    "Answer": "24 MPH"
+  },
+  {
+    "Question": "Before the 19th Century, the \"Living Room\" was originally called the...",
+    "Answer": "Parlor"
+  },
+  {
+    "Question": "What year was Queen Elizabeth II born?",
+    "Answer": "1926"
+  },
+  {
+    "Question": "What is the romanized Arabic word for \"moon\"?",
+    "Answer": "Qamar"
+  },
+  {
+    "Question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song \"Shelter\"?",
+    "Answer": "Madeon"
+  },
+  {
+    "Question": "Which of the following languages does NOT use gender as a part of its grammar?",
+    "Answer": "Turkish"
+  },
+  {
+    "Question": "What year was the RoboSapien toy robot released?",
+    "Answer": "2004"
+  },
+  {
+    "Question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+    "Answer": "7 years"
+  },
+  {
+    "Question": "TRUE OR FALSE - Stagecoach owned \"South West Trains\" before losing the rights to FirstGroup and MTR in March of 2017.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+    "Answer": "Andrew Scott Reisse"
+  },
+  {
+    "Question": "TRUE OR FALSE - Spoon theory is a theory, utilizing \"Spoons\" as a metaphor for energy they can use in a day.",
+    "Answer": "TRUE"
+  },
+  {
+    "Question": "In flight systems, what does the initialism \"TCAS\" stand for?",
+    "Answer": "Traffic Collision Avoidance System"
+  },
+  {
+    "Question": "If someone said \"you are olid\", what would they mean?",
+    "Answer": "You smell extremely unpleasant."
+  },
+  {
+    "Question": "Named after the mallow flower, mauve is a shade of what?",
+    "Answer": "Purple"
+  },
+  {
+    "Question": "Chartreuse is a color between yellow and what?",
+    "Answer": "Green"
+  },
+  {
+    "Question": "Nephelococcygia is the practice of doing what?",
+    "Answer": "Finding shapes in clouds"
+  },
+  {
+    "Question": "If you planted the seeds of Quercus robur, what would grow?",
+    "Answer": "Trees"
+  },
+  {
+    "Question": "How many notes are there on a standard grand piano?",
+    "Answer": "88"
+  },
+  {
+    "Question": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+    "Answer": "The Shatter's"
+  },
+  {
+    "Question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+    "Answer": "35 Pounds"
+  },
+  {
+    "Question": "TRUE OR FALSE - The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "What Sport Do The Harlem Globetrotters Play?",
+    "Answer": "\u00a0Basketball"
+  },
+  {
+    "Question": "This sport is called the \"American pastime\"?",
+    "Answer": "Baseball"
+  },
+  {
+    "Question": "What is the symbol for copper?",
+    "Answer": "Cu"
+  },
+  {
+    "Question": "On What Japanese City Was The First Atomic Bomb Dropped?",
+    "Answer": "Hiroshima"
+  },
+  {
+    "Question": "Who led 900 followers in a mass suicide in 1979?",
+    "Answer": "Jim Jones"
+  },
+  {
+    "Question": "What Sport Do The Harlem Globetrotters Play?",
+    "Answer": "\u00a0Basketball"
+  },
+  {
+    "Question": "The Denver ____?",
+    "Answer": "Broncos"
+  },
+  {
+    "Question": "Monza & Silverstone Are Venues For Which Sport?",
+    "Answer": "Formula One"
+  },
+  {
+    "Question": "What does the term GPU stand for?",
+    "Answer": "Graphics Processing Unit"
+  },
+  {
+    "Question": "What is the nationality of Picasso?",
+    "Answer": "Spanish"
+  },
+  {
+    "Question": "The villagers of Little Hangleton still called it \"the Riddle House\" even though it has been many years since the Riddle family had lived there.' This is the first line of which piece of written work?",
+    "Answer": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "Question": "In which book series does 'Neville Longbottom' appear?",
+    "Answer": "Harry Potter"
+  },
+  {
+    "Question": "Published in 1597, which piece of written work starts with the line 'Two households, both alike in dignity, in fair Verona, where we lay our scene, from ancient grudge break to new mutiny, where civil blood makes civil hands unclean.'?",
+    "Answer": "Romeo and Juliet"
+  },
+  {
+    "Question": "Which painter reputedly cut off his own ear?",
+    "Answer": "Van GoghQ: What is the name of the famous painting by Vincent van Gogh that depicts a night sky filled with swirling stars, a small village, and a large cypress tree?"
+  },
+  {
+    "Question": "The History of Middle-earth' was written by which author?",
+    "Answer": "J. R. R. Tolkien"
+  },
+  {
+    "Question": "What is Symptomatology the study of?",
+    "Answer": "symptoms"
+  },
+  {
+    "Question": "Which science deals with the motion of projectiles?",
+    "Answer": "Ballistics"
+  },
+  {
+    "Question": "What is Nutriology the study of?",
+    "Answer": "Nutrition"
+  },
+  {
+    "Question": "TRUE OR FALSE - Vietnam's national flag is a red star in front of a yellow background.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+    "Answer": "Thomas Jefferson"
+  },
+  {
+    "Question": "Who is depicted on the US hundred-dollar bill?",
+    "Answer": "Benjamin Franklin"
+  },
+  {
+    "Question": "What geometric shape is generally used for stop signs?",
+    "Answer": "Octagon"
+  },
+  {
+    "Question": "Area 51 is located in which US state?",
+    "Answer": "Nevada"
+  },
+  {
+    "Question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song \"Shelter\"?",
+    "Answer": "Madeon"
+  },
+  {
+    "Question": "On What Japanese City Was The First Atomic Bomb Dropped?",
+    "Answer": "Hiroshima"
+  },
+  {
+    "Question": "Who Was The First Woman To Fly Solo Across The Atlantic Ocean?",
+    "Answer": "Amelia Earhart"
+  },
+  {
+    "Question": "How many balls are on a pool table at the start of a game?",
+    "Answer": "\u00a016"
+  },
+  {
+    "Question": "Generally, which component of a computer draws the most power?",
+    "Answer": "Video Card"
+  },
+  {
+    "Question": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+    "Answer": "Center"
+  },
+  {
+    "Question": "What is the name of the Duke of Milan who casts a spell on a ship in 'The Tempest'?",
+    "Answer": "Prospero"
+  },
+  {
+    "Question": "Chartreuse is a colour between yellow and what?",
+    "Answer": "Green"
+  },
+  {
+    "Question": "Nephelococcygia is the practice of doing what?",
+    "Answer": "Finding shapes in clouds"
+  },
+  {
+    "Question": "If you planted the seeds of Quercus robur, what would grow?",
+    "Answer": "Trees"
+  },
+  {
+    "Question": "Who penned the words, 'Hubble, bubble toil and trouble, fire burn and cauldron bubble'?",
+    "Answer": "William Shakespeare"
+  },
+  {
+    "Question": "His wife was Roxana. His horse was Bacephalus. He was ________.",
+    "Answer": "Alexander the Great"
+  },
+  {
+    "Question": "What Was The 9th Century Tax Levied To Fight The Vikings?",
+    "Answer": "Dane Geld"
+  },
+  {
+    "Question": "In 1969 Richard Cawston Made A Documentary For The BBC About Which Famous Family?",
+    "Answer": "The Royal Family"
+  },
+  {
+    "Question": "What did Temujin change his name to?",
+    "Answer": "Genghis Khan"
+  },
+  {
+    "Question": "Of What Tribe Was Boadicea The Head?",
+    "Answer": "Iceni"
+  },
+  {
+    "Question": "In Which City Was John F Kennedy Assassinated?",
+    "Answer": "Dallas"
+  },
+  {
+    "Question": "Of which ship was Miles Standish captain?",
+    "Answer": "The Mayflower"
+  },
+  {
+    "Question": "In 1998 Who Became The Youngest Footballer To Score A Hat Trick In The English Premiership?",
+    "Answer": "Michael Owen"
+  },
+  {
+    "Question": "TRUE OR FALSE - An eggplant is a vegetable.",
+    "Answer": "FALSE"
+  },
+  {
+    "Question": "What is the unit of currency in Laos?",
+    "Answer": "Kip"
+  },
+  {
+    "Question": "What alcoholic drink is mainly made from juniper berries?",
+    "Answer": "Gin"
+  },
+  {
+    "Question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+    "Answer": "Fiat"
+  },
+  {
+    "Question": "What is the last letter of the Greek alphabet?",
+    "Answer": "Omega"
+  },
+  {
+    "Question": "What viral video predominantly featured the song \u2018Dragostea Din Tei\u2019 by Moldovan pop group \u2018O-Zone\u2019?",
+    "Answer": "Spain"
+  },
+  {
+    "Question": "In what year did the UK's lease on Hong Kong expire?",
+    "Answer": "1997"
+  },
+  {
+    "Question": "Where do you get milk?",
+    "Answer": "Coral"
+  },
+  {
+    "Question": "What Type Of Race Got Its Name From A Short Dash Between 2 Churches?Answer: Steeple Chase",
+    "Answer": "Instruction"
+  },
+  {
+    "Question": "What are the base station trackers used for the HTC Vive called?",
+    "Answer": "Lighthouse"
+  },
+  {
+    "Question": "The term \"battery\" to describe an electrical storage device was coined by?",
+    "Answer": "Benjamin Franklin"
+  },
+  {
+    "Question": "Which company designed the \"Betamax\" video cassette format?",
+    "Answer": "Sony"
+  },
+  {
+    "Question": "Who patented a steam engine that produced continuous rotary motion?",
+    "Answer": "James Watt"
+  },
+  {
+    "Question": "When was the Tamagotchi digital pet released?",
+    "Answer": "1996"
+  },
+  {
+    "Question": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+    "Answer": "2012"
+  },
+  {
+    "Question": "When was the DVD invented?",
+    "Answer": "1995"
+  },
+  {
+    "Question": "When did the CD begin to appear on the consumer market?",
+    "Answer": "1982"
+  },
+  {
+    "Question": "When was the iPhone released?",
+    "Answer": "2007"
+  },
+  {
+    "Question": "Who built the first laser?",
+    "Answer": "Theodore Harold Maiman"
+  },
+  {
+    "Question": "Which company developed the Hololens?",
+    "Answer": "Microsoft"
+  },
+  {
+    "Question": "Which of the following cellular device companies is NOT headquartered in Asia?",
+    "Answer": "Nokia"
+  },
+  {
+    "Question": "Mobile hardware and software company \"Blackberry Limited\" was founded in which country?",
+    "Answer": "Canada"
+  },
+  {
+    "Question": "What round is a classic AK-47 chambered in?",
+    "Answer": "7.62x39mm"
+  },
+  {
+    "Question": "What is the \"Mitsubishi Wakamaru\"?",
+    "Answer": "A robot"
+  },
+  {
+    "Question": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+    "Answer": "Challenger and Columbia"
+  },
+  {
+    "Question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+    "Answer": "Typewriters"
+  },
+  {
+    "Question": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+    "Answer": "Year"
+  },
+  {
+    "Question": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+    "Answer": "Clipper Chip"
+  },
+  {
+    "Question": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+    "Answer": "Center"
+  },
+  {
+    "Question": "The numbering system with a radix of 16 is more commonly referred to as",
+    "Answer": "Hexidecimal"
+  },
+  {
+    "Question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+    "Answer": "Injection"
+  },
+  {
+    "Question": "Who invented the \"Spanning Tree Protocol\"?",
+    "Answer": "Radia Perlman"
+  },
+  {
+    "Question": "In computing, what does MIDI stand for?",
+    "Answer": "Musical Instrument Digital Interface"
+  },
+  {
+    "Question": "Which kind of algorithm is Ron Rivest not famous for creating?",
+    "Answer": "Secret sharing scheme"
+  },
+  {
+    "Question": "What was the name of the security vulnerability found in Bash in 2014?",
+    "Answer": "Shellshock"
+  },
+  {
+    "Question": "What does AD stand for in relation to Windows Operating Systems?",
+    "Answer": "Active Directory"
+  },
+  {
+    "Question": "What is the most preferred image format used for logos in the Wikimedia database?",
+    "Answer": ".svg"
+  },
+  {
+    "Question": "How many cores does the Intel i7-6950X have?",
+    "Answer": "10"
+  },
+  {
+    "Question": "In the server hosting industry IaaS stands for...",
+    "Answer": "Infrastructure as a Service"
+  },
+  {
+    "Question": "What is the name of the default theme that is installed with Windows XP?",
+    "Answer": "Luna"
+  },
+  {
+    "Question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+    "Answer": "Heartbleed"
+  },
+  {
+    "Question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+    "Answer": "Game Maker"
+  },
+  {
+    "Question": "Which RAID array type is associated with data mirroring?",
+    "Answer": "RAID 1"
+  },
+  {
+    "Question": "When did the online streaming service \"Mixer\" launch?",
+    "Answer": "2016"
+  },
+  {
+    "Question": "When Gmail first launched, how much storage did it provide for your email?",
+    "Answer": "1GB"
+  },
+  {
+    "Question": "Who is the original author of the real-time physics engine called PhysX?",
+    "Answer": "NovodeX"
+  },
+  {
+    "Question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+    "Answer": "1000"
+  },
+  {
+    "Question": ".rs is the top-level domain for what country?",
+    "Answer": "Serbia"
+  },
+  {
+    "Question": "Nvidia's headquarters are based in which Silicon Valley city?",
+    "Answer": "Santa Clara"
+  },
+  {
+    "Question": "The teapot often seen in many 3D modelling applications is called what?",
+    "Answer": "Utah Teapot"
+  },
+  {
+    "Question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+    "Answer": "Midnight, January 1, 1970"
+  },
+  {
+    "Question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+    "Answer": "Taiwan"
+  }
+]
