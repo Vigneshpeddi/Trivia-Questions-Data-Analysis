@@ -7,4 +7,5 @@ Performs data analysis of scraped trivia questions
 - creates bar graph of ten most common words in the dataset
 
 scraper.py - houses scrapers
+
 wc.py - houses data analysis
